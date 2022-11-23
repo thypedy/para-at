@@ -4,4 +4,6 @@ Um site demonstrativo da site do Nike para personalizar o READ.ME
 
 ## Captura de tela
 ![plot](img/nike1.png)
-!["alt" descrição da imagem]()
+![plot](img/nike2.png)
+![plot](img/footer.png)
+
