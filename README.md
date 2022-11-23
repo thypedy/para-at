@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/thypedy/paraAT)
 <h1 align="center">Site da Nike</h1>
 Um site demonstrativo da site do Nike para personalizar o READ.ME, um dos projetos feitos com o professor anterior
 
